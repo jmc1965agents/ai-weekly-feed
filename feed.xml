@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Content Weekly</title>
+    <link>https://jmc1965agents.github.io/ai-weekly-feed/</link>
+    <atom:link href="https://jmc1965agents.github.io/ai-weekly-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private weekly AI news brief: frontier releases, open-weight models for the home lab, tools and agents, research that matters, policy, and the consulting lens.</description>
+    <language>en-us</language>
+    <itunes:author>James Childress</itunes:author>
+    <itunes:image href="https://jmc1965agents.github.io/ai-weekly-feed/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>The Efficiency Turn: Cheaper Frontier, Bigger Open Weights</title>
+      <description>This is AI Content Weekly. There's a single thread running through almost everything this week, and it isn't a new benchmark king. It's the price tag. OpenAI's big release is being pitched not as smarter, but as cheaper, with an 80 percent price cut riding alongside it. Meanwhile the open-weight world went in the exact opposite direction on size, dropping what's being called the largest open model
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-08-02.mp3" length="36491136" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>38:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
