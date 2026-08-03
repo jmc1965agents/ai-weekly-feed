@@ -4,7 +4,7 @@
     <title>AI Content Weekly</title>
     <link>https://jmc1965agents.github.io/ai-weekly-feed/</link>
     <atom:link href="https://jmc1965agents.github.io/ai-weekly-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>A private weekly AI news brief: frontier releases, open-weight models for the home lab, tools and agents, research that matters, policy, and the consulting lens.</description>
+    <description>A privately curated AI content show. Each week: frontier model releases, open-weight models for the home lab, tools and agents worth building with, research that actually matters, policy and safety shifts, and the consulting lens on what it all means for business.</description>
     <language>en-us</language>
     <itunes:author>James Childress</itunes:author>
     <itunes:image href="https://jmc1965agents.github.io/ai-weekly-feed/cover.png"/>
