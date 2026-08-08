@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>The Accidental-Cyberattack Era, and the Bill Comes Due</title>
+      <description>This is AI Weekly, and this was the week the industry started tripping over its own capabilities. Three separate labs, plus a government agency, all had to explain how their models went and hacked someone during testing. Nobody meant to. That's the point. Meanwhile the frontier kept shipping, China kept dominating open weights, and enterprises woke up to a bill they didn't budget for. So the throu
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-08-07.mp3" length="32225664" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>33:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Efficiency Turn: Cheaper Frontier, Bigger Open Weights</title>
       <description>This is AI Content Weekly. There's a single thread running through almost everything this week, and it isn't a new benchmark king. It's the price tag. OpenAI's big release is being pitched not as smarter, but as cheaper, with an 80 percent price cut riding alongside it. Meanwhile the open-weight world went in the exact opposite direction on size, dropping what's being called the largest open model
 
