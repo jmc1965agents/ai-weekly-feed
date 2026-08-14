@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Speed as a Product, and the Open-Weight Flood</title>
+      <description>Welcome back to AI Weekly. This is the show for people who build with this stuff, teach it, sell it, and run it on their own hardware. And this was a loud week. The through-line? Speed and sovereignty. OpenAI started selling latency as its own product, renting out Cerebras silicon to make an existing model run up to fourteen times faster. Meanwhile the open-weight world dropped a small avalanche o
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-08-14.mp3" length="37019904" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>38:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Accidental-Cyberattack Era, and the Bill Comes Due</title>
       <description>This is AI Weekly, and this was the week the industry started tripping over its own capabilities. Three separate labs, plus a government agency, all had to explain how their models went and hacked someone during testing. Nobody meant to. That's the point. Meanwhile the frontier kept shipping, China kept dominating open weights, and enterprises woke up to a bill they didn't budget for. So the throu
 
