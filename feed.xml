@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>The Memory Crunch, the Money, and a Very Confusing Week of Deals</title>
+      <description>This week the story isn't really about a shiny new model. It's about money and metal. Half a trillion dollars getting organized to finance AI compute, memory prices up five hundred percent in a year, and a run of acquisition headlines so strange that even the people reporting them wrote, and I quote, yes, we're confused too. Underneath the deal noise there's a quieter through-line that actually ma
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-08-21.mp3" length="29878656" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>31:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Speed as a Product, and the Open-Weight Flood</title>
       <description>Welcome back to AI Weekly. This is the show for people who build with this stuff, teach it, sell it, and run it on their own hardware. And this was a loud week. The through-line? Speed and sovereignty. OpenAI started selling latency as its own product, renting out Cerebras silicon to make an existing model run up to fourteen times faster. Meanwhile the open-weight world dropped a small avalanche o
 
