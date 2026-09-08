@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>GPT-6 Astra, Sovereign Open Weights, and the Trillion-Dollar Bet</title>
+      <description>This is AI Weekly. There's one word running through this whole episode, and it's not a model name. It's defense. OpenAI shipped a new flagship it says crossed a line no broadly-deployed model has crossed before, and in the same breath its chief scientist wrote an essay calling the thing an alien mind. Mistral raised three billion euros to plant a flag for sovereign, open-weight AI. And Wharton put
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-09-08.mp3" length="33539328" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>34:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Registry Layer Gets Bought</title>
       <description>This is AI Weekly. And this week, the ground under open-source AI moved. Nvidia is reportedly buying Hugging Face — the hub where nearly every open model lives — for around thirteen billion dollars, and that one deal ripples through everything else we're going to talk about today. It's a week about who owns the plumbing. OpenAI showed off its own inference chip and started running ads in India. A
 
