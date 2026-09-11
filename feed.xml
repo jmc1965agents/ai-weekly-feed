@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>The Week AI Did Mathematics — And a Researcher Walked Out</title>
+      <description>This was the week a fleet of AI agents produced a result on one of the Millennium Prize Problems, and the biggest fight afterward wasn't about the math. It was about who got credit, and what happens to research culture when labs start racing each other to scoop rumors. It was also the week a safety researcher at Anthropic quit in public, and turned a background hum of unease into headline news. An
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-09-11.mp3" length="62731008" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>GPT-6 Astra, Sovereign Open Weights, and the Trillion-Dollar Bet</title>
       <description>This is AI Weekly. There's one word running through this whole episode, and it's not a model name. It's defense. OpenAI shipped a new flagship it says crossed a line no broadly-deployed model has crossed before, and in the same breath its chief scientist wrote an essay calling the thing an alien mind. Mistral raised three billion euros to plant a flag for sovereign, open-weight AI. And Wharton put
 
