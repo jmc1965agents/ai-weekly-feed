@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>The Price War Week: Opus 5.5, GPT-6 Sol, and a Trillion-Parameter Xiaomi</title>
+      <description>On Tuesday, Anthropic shipped Claude Opus 5.5 at a lower price. About an hour later, OpenAI shipped GPT-6 Sol and Luna and cut its API prices in half. So the story this week isn't really which model is smartest. It's what intelligence costs now. The same thing shows up everywhere else. Xiaomi, yes, the phone and EV company, now has the top open-weight model on one major leaderboard, and it spent s
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-09-25.mp3" length="45588864" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>47:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Cold Water Week: Compaction Injections, Gas Town Closes, and 890 Bytes a Token</title>
       <description>This is AI Weekly for Thursday, September eighteenth, twenty twenty-six. And the through-line this week is cold water. Not because the field slowed down — it very much didn't. Google shipped a voice model that reasons out loud while it talks. DeepSeek squeezed a key-value cache down to eight hundred and ninety bytes per token. Crusoe raised almost four billion dollars. But the most interesting sto
 
