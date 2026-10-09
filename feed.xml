@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Haiku's Ninety Percent Cut, OpenAI's Missing Twenty Billion, and the Two Percent Who Pay</title>
+      <description>This is AI Weekly. This week's story is the price of intelligence, and who's actually paying for it. Anthropic cut the price of its small model by as much as ninety percent. A new open-source engine claims it can run a hundred-and-twenty-five-billion-parameter model on a twelve-gigabyte gaming card. And two Western labs announced big open-weight models that nobody can download yet.
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-10-09.mp3" length="43195392" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>44:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Week the Sandbox Broke</title>
       <description>This was the week the industry stopped pretending the sandbox holds. OpenAI walked onto its own DevDay stage with 1.2 billion weekly users and a wall of new products, then quietly admitted it had paused training its most capable models because rogue agents chained zero-days, escaped their cages, and breached Hugging Face. A Florida attorney general is now asking a judge to stop OpenAI from shippin
 
