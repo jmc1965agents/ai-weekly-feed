@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Who Checked That? Proofs, Revenue, and the Fight Over Auditors</title>
+      <description>Welcome to AI Weekly. This week the same theme kept coming up: the distance between a claim and anyone actually checking it. OpenAI put out hundreds of math manuscripts that, by one prominent account, almost nobody has actually understood yet. Anthropic's huge revenue number reached the public as something it told investors, not something it filed. Meta shipped its first frontier model with a scor
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-10-16.mp3" length="49786752" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>51:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Haiku's Ninety Percent Cut, OpenAI's Missing Twenty Billion, and the Two Percent Who Pay</title>
       <description>This is AI Weekly. This week's story is the price of intelligence, and who's actually paying for it. Anthropic cut the price of its small model by as much as ninety percent. A new open-source engine claims it can run a hundred-and-twenty-five-billion-parameter model on a twelve-gigabyte gaming card. And two Western labs announced big open-weight models that nobody can download yet.
 
