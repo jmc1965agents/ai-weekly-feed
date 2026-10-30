@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Anthropic Opens Its Books, Mistral Opens Its Weights</title>
+      <description>This week, a frontier AI lab had to show its real numbers for the first time. Anthropic's IPO filing is public, and it's full of eye-watering figures, both good and alarming. Meanwhile Mistral released the weights of a trillion-parameter model, NVIDIA open-sourced a speech model that does a whole meeting-transcription pipeline in one checkpoint, and GitHub's numbers say agents now start more than
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-10-30.mp3" length="42530304" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>44:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PHP2Shell, DeepInfer, and the Plumbing Becoming the Product</title>
       <description>This week's biggest AI story wasn't a model. It was two critical bugs in PHP, the language behind a huge share of the web. They were found with AI's help, and the patch went out a day after the details leaked. Around that sits a pattern. The plumbing is turning into the product. DeepSeek open-sourced the engine it serves its own models with. Anthropic handed Agent Skills to a neutral foundation. A
 
