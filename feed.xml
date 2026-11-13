@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Hydrogen, a Resignation, and the Price of Cheap Tokens</title>
+      <description>This week the cheapest model in Google's new Gemini 4 lineup turned out to cost twice as much as the one it replaces. Jensen Huang resigned as CEO of Nvidia, which leaves the open-source world wondering what happens to the Hugging Face deal he championed. Meanwhile the money men are pricing Anthropic and OpenAI north of a trillion dollars each, and the safety crowd is arguing about whether the int
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-11-13.mp3" length="39120768" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>40:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Machines Finding Bugs, Markets Finding Limits</title>
       <description>This week an AI pipeline wrote working root exploits for nine hundred and forty-eight Linux kernel bugs, and drafted a patch for each one. The bill came to about twelve hundred dollars per bug. The same week, an independent evaluator embedded at Anthropic estimated that AI is now roughly doubling the speed of AI research inside the lab. And OpenAI's own researchers flagged that their flagship mode
 
