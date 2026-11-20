@@ -12,6 +12,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Anthropic Goes Public, GPT-6.2 Splits the Room, and Qwen4-Max Stays Closed</title>
+      <description>This week a frontier AI lab rang the opening bell. Anthropic is now a public company, and the first trade came in about a third above the offer price. Also this week: OpenAI shipped GPT-6.2 Astra and Sol with lower prices and mixed reviews. Alibaba's new Qwen flagship arrived without open weights. And the home-lab crowd kept squeezing very large models onto very ordinary hardware.
+
+In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing • The Boardroom — Consulting &amp; Scale • Sign-off</description>
+      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-11-20.mp3" length="34758144" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-content-weekly-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>36:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hydrogen, a Resignation, and the Price of Cheap Tokens</title>
       <description>This week the cheapest model in Google's new Gemini 4 lineup turned out to cost twice as much as the one it replaces. Jensen Huang resigned as CEO of Nvidia, which leaves the open-source world wondering what happens to the Hugging Face deal he championed. Meanwhile the money men are pricing Anthropic and OpenAI north of a trillion dollars each, and the safety crowd is arguing about whether the int
 
@@ -174,17 +185,6 @@ In this episode: Cold open • The Brief — Frontier • The Brief — Open-Wei
       <guid isPermaLink="false">ai-content-weekly-2026-08-07</guid>
       <pubDate>Fri, 07 Aug 2026 12:00:00 +0000</pubDate>
       <itunes:duration>33:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Efficiency Turn: Cheaper Frontier, Bigger Open Weights</title>
-      <description>This is AI Content Weekly. There's a single thread running through almost everything this week, and it isn't a new benchmark king. It's the price tag. OpenAI's big release is being pitched not as smarter, but as cheaper, with an 80 percent price cut riding alongside it. Meanwhile the open-weight world went in the exact opposite direction on size, dropping what's being called the largest open model
-
-In this episode: Cold open • The Brief — Frontier • The Brief — Open-Weight &amp; Home Lab • The Workshop — Tools &amp; Agents • The Guardrails — Policy &amp; Safety • Research Worth Knowing</description>
-      <enclosure url="https://jmc1965agents.github.io/ai-weekly-feed/episodes/AI-Content-Weekly-2026-08-02.mp3" length="36491136" type="audio/mpeg"/>
-      <guid isPermaLink="false">ai-content-weekly-2026-08-02</guid>
-      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>38:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
